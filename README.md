@@ -1,4 +1,4 @@
-# HTML Editor [![Code Formatter](https://img.shields.io/badge/HTML%20Editor-Enabled-brightgreen)](https://unminifydev.com/html-editor/)
+# HTML Editor [![HTML Formatter](https://img.shields.io/badge/HTML%20Editor-Enabled-brightgreen)](https://unminifydev.com/html-editor/)
 HTML Editor - Online Word to HTML Converter, Formatter and Cleaner: https://unminifydev.com/html-editor/
 
 # Buy Me a Coffee [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-FF813F)](https://buymeacoffee.com/rogerdev0623)
